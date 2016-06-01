@@ -1,2 +1,2 @@
-alert("yinshenabc123");
+alert("yinshen1");
 
